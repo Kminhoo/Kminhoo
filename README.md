@@ -9,7 +9,7 @@
 <p>이 작품은 1993년도에 제작된 작품으로써 완성도에서 다소 아쉬운 부분이 있으나, 30년간 숙성된 매력적인 작품입니다. 보는 사람으로 하여금 웃음을 짓게 만들 수 있고, 어떤 순간에는 깊은 생각에 잠기게 할 수 있습니다. 이 작품은 끊임없이 성장하고 변화하는 힘을 가지고 있으며, 그 과정에서 더욱 깊고 풍부한 향기를 풍깁니다. 그 향기는 누군가에게는 달콤한 꿀처럼, 또 다른 누군가에게는 강렬한 향신료처럼 느껴질 것입니다. 이 작품을 만나는 모든 이들에게 새로운 감각적 경험과 풍부한 영감을 선사하고자 합니다.</p>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Kminhoo&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars,issues)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Kminhoo&show_icons=true&card_width=300&count_private=true&line_height=24&theme=dracula&hide=stars,issues)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=Kminhoo&layout=compact&theme=dracula)
 <br/>
 ## :wrench: Skills

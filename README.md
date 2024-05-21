@@ -40,5 +40,5 @@
 <br/>
 
 ## :telephone_receiver: Contact
-- Blog : <a href="https:dev.hoostory.com"><span><img src="https://img.shields.io/badge/velog-f24e1e?style=flat&logo=velog&logoColor=white"/></span></a>
+- Blog : <a href="https://dev.hoostory.com"><span><img src="https://img.shields.io/badge/velog-f24e1e?style=flat&logo=velog&logoColor=white"/></span></a>
 - Social : <a href="https://www.instagram.com/mh10.14/"><span><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></span></a>
